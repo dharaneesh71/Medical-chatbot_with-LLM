@@ -13,4 +13,4 @@ touch research/trials.ipynb
 touch requirements.txt
 
 
-echo "Project structure created successfully."
+echo "Project structure created successfully." 
